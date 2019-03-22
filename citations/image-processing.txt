@@ -1,0 +1,6 @@
+@book{russ2016image,
+  title={The image processing handbook},
+  author={Russ, John C},
+  year={2016},
+  publisher={CRC press}
+}
